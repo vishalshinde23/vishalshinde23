@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalshinde23
 - 👀 I’m interested in Mern-stack Developer
-- 🌱 I’m currently learning ReactJs Tools
-- 📫 How to reach me vishalshinde18122000@gmail.com
+- 🌱 I’m currently learning Advanced tools for buliding web applications
+- 📫 How to reach me shindevishal2906@gmail.com
 
 
 <!---
